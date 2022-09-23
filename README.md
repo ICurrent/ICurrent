@@ -1,5 +1,5 @@
-<h1 style="color:blue;">Hi 👋, I'm Emmanuel Ogunleye</h1>
-<h3 align="center">I'm a Data and Analytics/Modelling, Machine Learning and Backend Development enthusiast.</h3>
+<h1 align="center" color="blue">Hi 👋, I'm Emmanuel Ogunleye</h1>
+<h3 align="center">I'm a Data and Analytics/Modelling,<br/> Machine Learning and Backend Development enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icurrent" alt="icurrent" /></a> </p>
 
